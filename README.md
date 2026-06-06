@@ -1,13 +1,11 @@
 ## Hi there, I am Pooja Vishwakarma, great to see you here.
 
 
-• Pursuing my Masters in Applied Computing from University of Windsor.
+• Did my Master's in Applied Computing from the University of Windsor.
 
-• Full Stack Developer with 5 years of experience.
+• Full Stack Developer with 6+ years of experience.
 
-• Passionate and result oreinted, open for innovative projects.
-
-• Seeking Fall 2024 Internship.
+• Passionate and results-oriented, open to innovative projects.
 
 ## Skills
 
@@ -32,6 +30,8 @@
 **LinkedIn:** https://www.linkedin.com/in/pooja-vishwakarma95/
 
 **GitHub:** https://www.gitshowcase.com/pooja-vish
+
+**Porfolio:** https://now-streaming-pooja.vercel.app
 
 ## Let's Connect!
 
